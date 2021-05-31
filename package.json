@@ -1,0 +1,12 @@
+{
+  "name": "TypescriptDesignPatterns",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/danielnoliveira/TypescriptDesignPatterns.git",
+  "author": "Daniel Nogueira de Oliveira <daniel.n.oliveira@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.0.0",
+    "typescript": "^4.3.2"
+  }
+}
